@@ -5,6 +5,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    spec: "cypress_tests/cypress/e2e/**/*.js"
   },
-  chromeWebSecurity: false
+  chromeWebSecurity: false,
+
 });
