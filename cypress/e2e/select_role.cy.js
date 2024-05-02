@@ -50,6 +50,10 @@ describe('Selected role', () => {
                 .click()
 
             cy.wait(2500)
+
+            cy.log('Клик по кнопке "Сбросить роль"')
+            cy.get('#app > div.page > div > div.page-navigation > div.page-nav__mobile > div:nth-child(1) > form > div.form__buttons > button')
+                .click()
         })
     })
 })
