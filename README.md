@@ -36,7 +36,7 @@
 2. Перед вами откроется приветственное окно приложения Cypress, выберите E2E testing(см. ниже)
 
 ![Изображение отсутствует](images/select E2E testing.png)
-![alt text](https://raw.githubusercontent.com/aekkakti/cypress_tests/8383761db595012ca3547ccab2b556720459df42/images/select E2E testing.png)
+![alt text](https://raw.githubusercontent.com/aekkakti/cypress_tests/8383761db595012ca3547ccab2b556720459df42/images/select_E2E_testing.png)
 
 3. Затем выберите браузер, в котором хотите произвести автотесты(для стабильной работы рекомендуется выбирать Electron)
 
