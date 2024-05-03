@@ -35,16 +35,15 @@
 
 2. Перед вами откроется приветственное окно приложения Cypress, выберите E2E testing(см. ниже)
 
-![Изображение отсутствует](images/select E2E testing.png)
-![alt text](https://raw.githubusercontent.com/aekkakti/cypress_tests/f05f4f34cbb13e43a0fa7e8bc76ea0a81a3c5b65/images/select_E2E_testing.png)
+![No image](https://raw.githubusercontent.com/aekkakti/cypress_tests/f05f4f34cbb13e43a0fa7e8bc76ea0a81a3c5b65/images/select_E2E_testing.png)
 
 3. Затем выберите браузер, в котором хотите произвести автотесты(для стабильной работы рекомендуется выбирать Electron)
 
-![Изображение отсутствует](images/choose Browser.png)
+![No image](https://raw.githubusercontent.com/aekkakti/cypress_tests/f05f4f34cbb13e43a0fa7e8bc76ea0a81a3c5b65/images/choose_Browser.png)
 
 4. Нажмите кнопку "Start E2E testing in <<название выбранного браузера>>"
 
-![Изображение отсутствует](images/start E2E testing.png)
+![No image](https://raw.githubusercontent.com/aekkakti/cypress_tests/f05f4f34cbb13e43a0fa7e8bc76ea0a81a3c5b65/images/start_E2E_testing.png)
 
 5. Перед вами откроется директория с автотестами, выберите любой для проверки отдельной функции студента
 
@@ -66,7 +65,7 @@
 # Авторы
 
 Выполнили:
-  студенты 421 группы Иванов Гордей и Халиулина Лариса
+  студенты 421 группы Иванов Гордей и Халиулина Лариса <br />
   студент 412 группы Забелова Екатерина
 
 
