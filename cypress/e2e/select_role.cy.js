@@ -25,8 +25,6 @@ describe('None-selected role', () => {
             cy.log('Клик по кнопке "Я являюсь студентом"')
             cy.get('body > div:nth-child(6) > div.desktop-modal > div > div.select-role > div.select-role-form > div:nth-child(3)')
                 .click()
-
-            cy.wait(2500)
         })
     })
 })
